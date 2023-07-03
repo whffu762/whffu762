@@ -10,6 +10,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 #CORS(app, resources={r'*':{ 'origins' : 'http://localhost:8080'}}) client와 통신 안해서 이거 필요없음
 
+#asdf
 
 #Flask가 필요한 데이터를 모아둔 디렉토리
 root = os.path.join("c:", os.sep, "Users", "whffu", "VScode", "forTest")
