@@ -18,10 +18,10 @@
 
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)">
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)](https://solved.ac/whffu762)
+<img src="[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)](https://solved.ac/whffu762)">
 
 </p>
