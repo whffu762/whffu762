@@ -1,8 +1,9 @@
-#### 원리를 이해하고자 하는 개발자 김동현입니다
+## 원리를 이해하고자 하는 개발자 김동현입니다
 ---
 
 
 ### tech stack
+---
 ![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf%20Boot&logoColor=white)
