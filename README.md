@@ -16,7 +16,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
-<div>
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)
 
@@ -24,4 +24,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)](https://solved.ac/whffu762)
 
-</div>
+</p>
