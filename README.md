@@ -3,4 +3,5 @@
 
 
 ### tech stack
-![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+
