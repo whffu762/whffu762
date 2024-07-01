@@ -16,12 +16,8 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
-<p align="center">
 
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)
 
 
-<img src="[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)](https://solved.ac/whffu762)">
-
-</p>
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)(https://solved.ac/whffu762)"
