@@ -2,7 +2,7 @@
 ---
 
 
-### tech stack
+### Tech Stack
 
 ![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
@@ -18,6 +18,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whffu762&hide=css,scss&layout=compact)](https://github.com/whffu762/github-readme-stats)
-
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whffu762)](https://solved.ac/whffu762)
